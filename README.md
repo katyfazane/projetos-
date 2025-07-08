@@ -12,6 +12,6 @@
 
 
 
-<img src="URL-da-imagem" alt="Texto alternativo" style="float: left; width: 50%;"/>
+<img src="https://github.com/katyfazane" alt="Katy Fazane" style="float: left; width: 50%;"/>
 
 

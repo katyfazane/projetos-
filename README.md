@@ -12,6 +12,6 @@
 
 
 
-<img src="https://github.com/katyfazane" alt="Katy Fazane" style="float: left; width: 50%;"/>
-
+<img src="https://github.com/katyfazane/projetos-/blob/main/d131oejryywhj7.cloudfront.jpg?raw=true" alt="Katy Fazane" style="float: left; width: 20%;"/>
+<p> Katy Fazane</p>
 

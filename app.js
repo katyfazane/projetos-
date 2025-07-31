@@ -1,6 +1,5 @@
 let listaDeNumerosSorteados = [];
 let numeroLimite=10;
->>>>>>> parent of 3e85033 (alterando o limite para 100)
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas =1;
 
@@ -12,7 +11,7 @@ function exibirMensagemInicial (){
     exibirTextoNaTela('h1','Jogo do Número Secreto');
 
     exibirTextoNaTela('p','Escolha um número entre 1 e 10');
->>>>>>> parent of 3e85033 (alterando o limite para 100)
+
 }
 exibirMensagemInicial();
 
